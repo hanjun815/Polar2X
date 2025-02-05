@@ -4,7 +4,7 @@ Maintainer: Hanjun Kim (hanjun815@snu.ac.kr)
 
 
 ## News
-- March 2025: Our dataset will be available via [To be updated](https://sites.google.com/view/hercules_dataset).
+- 2025/02/05: Our dataset is available via [https://sites.google.com/view/hercules_dataset](https://sites.google.com/view/hercules_dataset).
 
 ## 1. Pre-requisites
 ```
